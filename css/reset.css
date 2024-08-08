@@ -47,7 +47,6 @@ html {
     text-decoration: none;
     color: inherit;
   }
-  /* ---------- SAYFADA BİRŞEYİ GİZLEMEK İÇİN ----------- */
   
   .visually-hidden {
     position: absolute;
@@ -61,4 +60,3 @@ html {
     clip: rect(0 0 0 0);
     overflow: hidden;
   }
-  
